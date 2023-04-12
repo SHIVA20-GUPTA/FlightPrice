@@ -1,1 +1,1 @@
-# FlightPrice
+# Machine learning project
